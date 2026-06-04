@@ -212,6 +212,20 @@ Skills:
 * AI Integration
 * NLP
 
+## Live Demo
+
+Frontend:
+https://ai-resume-analyzer-beta-olive.vercel.app/
+
+## Note
+
+This project's frontend is publicly deployed using Vercel.
+
+The backend (FastAPI, MongoDB, ATS analysis, and AI processing) is configured for local development and is not currently hosted online due AI model memory requirements.
+
+For a complete demonstration, please refer to the screenshots and demo video.
+
+
 GitHub:
 https://github.com/HemangBagadi
 
